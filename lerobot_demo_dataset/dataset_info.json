@@ -1,0 +1,41 @@
+{
+  "citation": "",
+  "description": "{'env_name': 'mujoco_pick_and_place', 'demo_id': 'demo_0', 'robot': 'franka_emika_panda'}",
+  "features": {
+    "timestamp": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "observation.state": {
+      "feature": {
+        "dtype": "float32",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "observation.environment_state": {
+      "feature": {
+        "dtype": "float32",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "action": {
+      "feature": {
+        "dtype": "float32",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "episode_index": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "frame_index": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
