@@ -1,6 +1,8 @@
-# MuJoCo Robot Simulation and Data Collection
+# MuJoCo Robot Teleoperation and Data Collection
 
-Simulates a Franka Emika Panda robot in MuJoCo, allowing keyboard control for data collection. Trajectories are recorded and saved as a LeRobot dataset.
+Simulates a Franka Emika Panda robot in MuJoCo, allowing keyboard control for teleoperation. Trajectories are recorded and saved as a LeRobot dataset.
+
+![demo gif](demo.gif)
 
 ## Dependencies
 
